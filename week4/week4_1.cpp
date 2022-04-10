@@ -142,4 +142,5 @@ int main() {
 			que->rear();
 		}
 	}
+	delelte que;
 }
