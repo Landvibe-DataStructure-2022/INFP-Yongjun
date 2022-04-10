@@ -142,5 +142,5 @@ int main() {
 			que->rear();
 		}
 	}
-	delelte que;
+	delete que;
 }
